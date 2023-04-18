@@ -1,0 +1,32 @@
+body {
+    background-image: url(a35bf4da70f548b4a2b7d1e7bfa8582a--i-love-math-kawaii.jpg);
+}
+
+.titulo {
+    color: brown;
+    font-style: oblique;
+}
+.info {
+    color: black;
+}
+.digite {
+    color: black;
+}
+
+.input1 {
+    border-radius: 5px;
+}
+
+.input2 {
+    border-radius: 5px;
+}
+
+.butom {
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.butom:hover {
+    background-color: white;
+    color: black;
+}
